@@ -3,7 +3,8 @@ html, body {
     padding: 0;
     box-sizing: border-box; 
     overflow-x: hidden;
-}
+    /*background: url(../img/wallhaven-956q2x.jpg) center no-repeat fixed;
+*/}
 a {
     text-decoration: none;
     color: inherit;
@@ -91,7 +92,7 @@ body {
     transform: translateX(0) translateY(0);
 }
 .container {
-    max-width: 1210px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
 }
